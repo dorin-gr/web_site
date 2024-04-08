@@ -1,0 +1,21 @@
+:root {
+    --body-bg: #123;
+    --nav-bg: rgb(69, 92, 115);
+
+}
+
+p {
+    font-family: "Roboto Condensend", sans-serif;
+    font-size: 23px;
+    font-weight: 650;
+}
+
+.about_box {
+    width: 70%;
+    margin: auto;
+    height: 500px;
+    background-color: var(--nav-bg);
+    border-radius: 20px;
+    padding: 15px;
+
+}
