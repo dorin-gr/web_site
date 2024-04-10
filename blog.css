@@ -14,25 +14,14 @@
     border-radius: 150px;
 }
 .owner-text {
-    padding: 50px 50px;
+    padding: 50px ;
 }
 
-p {
+.unu{
     font-family: "Roboto Condensend", sans-serif;
-    font-size: 23px;
-    font-weight: 650;
-}
-
-.about_box {
-    width: 70%;
-    margin: auto;
-    height: 500px;
-    background-color: var(--nav-bg);
-    border-radius: 20px;
-    padding: 15px;
-
-}
-.test1 {
-    font-weight: 900;
-    font-size: 35px;
+    font-weight: 700;
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    font-size: 27px;
 }

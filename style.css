@@ -41,7 +41,7 @@ body {
 .sidebar-item a {
     color: white;
     text-decoration: none;
-    height: 3rem;
+    
     padding-left: 1rem;
    
 }
@@ -53,7 +53,7 @@ body {
 
 .active::after,
 .active::before {
-    --border-size: 1rem;
+    --border-size: 2rem;
     content:"";
     position: absolute;
     height:var(--border-size);
