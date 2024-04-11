@@ -21,15 +21,23 @@ p {
     font-family: "Roboto Condensend", sans-serif;
     font-size: 23px;
     font-weight: 650;
+    margin: 7px;
+}
+.container {
+    padding-top: 40px;
+
 }
 
 .about_box {
-    width: 70%;
+    display: flex;
+    align-items: center;
+    width: 90%;
     margin: auto;
-    height: 500px;
+    margin-top: 30px;
+    height: auto;
     background-color: var(--nav-bg);
-    border-radius: 20px;
-    padding: 15px;
+    border-radius: 30px;
+    padding: 5px 15px;
 
 }
 .test1 {

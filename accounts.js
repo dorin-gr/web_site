@@ -2,7 +2,7 @@ const accountUser = {
     user1: {
         username: 'user1',
         password: '1111',
-        redirectUrl:'./acc1.html',
+        redirectUrl:'./acc1/acc1.html',
     },
     user2: {
         username: 'user2',
