@@ -71,7 +71,6 @@ p {
 .service-list {
 
     list-style: none;
-
     display: grid;
     gap: 40px;
     padding-block: 2rem 4rem;
@@ -87,7 +86,6 @@ p {
     right: 0;
     width: 600px;
     height: 400px;
-    
     border-radius: 10px;   
     
 }
@@ -121,8 +119,6 @@ p {
     top: 0;
     margin: auto;
     width: auto;
-
-    
     opacity: 0.9;
     background-color:white;
     font-size: 30px;
