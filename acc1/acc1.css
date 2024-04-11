@@ -55,3 +55,76 @@ p {
     font-family: "Roboto Condensend", sans-serif;
 
 }
+
+.service-wrapper {
+    height: 100%;
+    overflow: auto;
+    width: 1500px;
+    position: relative;
+
+}
+
+.service-list {
+
+    list-style: none;
+
+    display: grid;
+    gap: 40px;
+    padding-block: 2rem 4rem;
+   
+}
+
+
+.servicii {
+    position: relative;
+    margin: auto;
+    margin-top: 25px;
+    left: 0;
+    right: 0;
+    width: 600px;
+    height: 400px;
+    
+    border-radius: 10px;   
+    
+}
+
+
+
+
+.bt-reserv {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+    margin: auto;
+    width: 300px;
+    border-radius: 20px;
+    opacity: 0.8;
+    background-color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Roboto Condensend", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+    
+}
+
+.denumireJob {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    width: auto;
+
+    
+    opacity: 0.9;
+    background-color:white;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Roboto Condensend", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+}
